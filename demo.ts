@@ -5,3 +5,6 @@ let number: number = 10;
 // number = b; // OK
 a = b; // OK
 number = a as number // sử dụng Type Assertion => OK
+
+
+console.log("aksdkasdask");
