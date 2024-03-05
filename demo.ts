@@ -7,4 +7,8 @@ a = b; // OK
 number = a as number // sử dụng Type Assertion => OK
 
 
-console.log("aksdkasassdask");
+console.log("aksdaasaakasdask");
+
+
+
+console.log("ansdkjaksdjkasdjas");
