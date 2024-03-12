@@ -1,14 +1,8 @@
-let a: unknown = 25;
-let b: any = "homiedev";
-let number: number = 10;
+function getData(data: unknown) {
+    if (typeof data == 'number') {
+        console.log(data);
 
-// number = b; // OK
-a = b; // OK
-number = a as number // sử dụng Type Assertion => OK
+    }
 
-
-console.log("aksdaasaakasdask");
-
-
-
-console.log("ansdkjaksdjkasdjas");
+}
+getData('abc');
