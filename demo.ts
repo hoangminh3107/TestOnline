@@ -1,2 +1,2 @@
-console.log("day la log 1");
+console.log("day la log 2");
 
